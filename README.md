@@ -1,15 +1,10 @@
-# ToDoList
+# To-Do List
 A simple and responsive Todo List application built with Angular 18. This project allows users to add, view, and delete tasks, providing a clean and user-friendly interface. It's designed to be fully responsive, ensuring usability across various devices.
 
 Features:
 - Add and remove tasks with ease
 - Modern, responsive UI
 - Built using [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
-
-![Screenshot 2024-09-02 at 11 52 55 PM](https://github.com/user-attachments/assets/63549bac-9399-40b0-a613-8ddf878166b6)
-
-https://github.com/user-attachments/assets/ece64955-33fe-46ce-8807-13adfcc5719b
-
 
 ## Development server
 
